@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "emotion-theming": "^10.0.10",
-    "next": "^8.1.0",
+    "next": "^11.1.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
